@@ -1,3 +1,3 @@
 # Test-Case-Writing
 ## Shajgoj Test case writing
-### Checking and finding all kinds of bug
+### Examining and identifying various login and sign-in bugs
